@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.7747be13.chunk.css",
-    "main.js": "/static/js/main.d5ce6353.chunk.js",
-    "main.js.map": "/static/js/main.d5ce6353.chunk.js.map",
+    "main.js": "/static/js/main.4c3260aa.chunk.js",
+    "main.js.map": "/static/js/main.4c3260aa.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.06c8c3ed.js",
     "runtime-main.js.map": "/static/js/runtime-main.06c8c3ed.js.map",
-    "static/js/2.521fe567.chunk.js": "/static/js/2.521fe567.chunk.js",
-    "static/js/2.521fe567.chunk.js.map": "/static/js/2.521fe567.chunk.js.map",
+    "static/js/2.d4477328.chunk.js": "/static/js/2.d4477328.chunk.js",
+    "static/js/2.d4477328.chunk.js.map": "/static/js/2.d4477328.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c2bc57242912642bb9a5b2d5dda35913.js": "/precache-manifest.c2bc57242912642bb9a5b2d5dda35913.js",
+    "precache-manifest.698e07e7c84253e9112ede919873cc31.js": "/precache-manifest.698e07e7c84253e9112ede919873cc31.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.7747be13.chunk.css.map": "/static/css/main.7747be13.chunk.css.map",
-    "static/js/2.521fe567.chunk.js.LICENSE.txt": "/static/js/2.521fe567.chunk.js.LICENSE.txt",
+    "static/js/2.d4477328.chunk.js.LICENSE.txt": "/static/js/2.d4477328.chunk.js.LICENSE.txt",
     "static/media/aboutus.jpg": "/static/media/aboutus.6b3a838a.jpg",
     "static/media/android.svg": "/static/media/android.14ed07e6.svg",
     "static/media/angular.svg": "/static/media/angular.48ae79d9.svg",
@@ -43,14 +43,16 @@
     "static/media/react.svg": "/static/media/react.4009eef3.svg",
     "static/media/redis.svg": "/static/media/redis.4aaff929.svg",
     "static/media/swift.svg": "/static/media/swift.74ba2b9c.svg",
+    "static/media/travdy.svg": "/static/media/travdy.b7be8358.svg",
+    "static/media/travdyBlack.svg": "/static/media/travdyBlack.969757ac.svg",
     "static/media/vue.svg": "/static/media/vue.60dfaadb.svg",
     "static/media/wordpress.svg": "/static/media/wordpress.ad28d74c.svg",
     "static/media/workwithus.jpg": "/static/media/workwithus.4b1aa14f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.06c8c3ed.js",
-    "static/js/2.521fe567.chunk.js",
+    "static/js/2.d4477328.chunk.js",
     "static/css/main.7747be13.chunk.css",
-    "static/js/main.d5ce6353.chunk.js"
+    "static/js/main.4c3260aa.chunk.js"
   ]
 }
